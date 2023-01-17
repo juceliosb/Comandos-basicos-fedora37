@@ -1,5 +1,5 @@
 # Comandos-basicos-fedora37
-Seja bem vindo ao mundo linux se você esta começando nele através do **_Fedora_**, ou esta migrando de uma outra distro como o **_Ubunntu ou Mint_** etc. Pode ter certeza que esses comandas vão lhe ajudar muito na sua jornada do **_"Chapeu Azul"_**.
+Seja bem vindo ao mundo linux se você esta começando nele através do **_Fedora_**, ou esta migrando de uma outra distro como o **_Ubunntu, Mint ou até mesmo Debian_** etc. Pode ter certeza que esses comandas vão lhe ajudar muito na sua jornada do **_"Chapeu Azul"_**.
 
 ## Atualizando o Sistema
 Apos instalar o **_Fedora_** é muito importante atualizá-lo, para receber novas versões dos pacotes, softwares recentes bem como atualização de segurança e correções de erros.
@@ -19,4 +19,9 @@ Após execultar o comando em seguida o outro
 
 Será exibido a janela de seleção de idioma.
 
+![Imagem](/assets/imagens/idioma1.png)
+
 Após o download dos pacotes de idioma, aparecerá um aviso informando que o suporte ao idioma está instalado, clique em "OK" para defini-lo como idioma padrão do sistema:
+
+Quando precisamos procurar algum programa via terminal,
+>``dnf search`` nome_do_arquivo
